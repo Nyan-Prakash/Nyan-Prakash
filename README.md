@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ✨ I want to build cool things with cool people ✨
 
-- 🐶 I'm currently working on startup with my friend called AutoDog. It is an automatic dog harness that makes dog training easy an accessible for anyone.
+- 🐶 I'm currently working on startup with my friend called AutoDog. It is an automatic dog harness that makes dog training easy for everyone.
 - 🥇 I'm looking for teammate for hackathon.<br>
 - 🎮I'm an excited to talk about unity game development and startups
 - 🤹🏾 Fun Fact I can juggle
