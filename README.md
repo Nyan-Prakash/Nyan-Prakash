@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🎮I'm an excited to talk about unity game development and startups
 - 🤹🏾 Fun Fact I can juggle
 
+Visit https://nyanprakash.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nyan-prakash/) 
 
